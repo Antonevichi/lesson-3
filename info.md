@@ -62,7 +62,7 @@
 Для создания ветки brsnch_neme:
 
 > git branch branch_neme
-
+Переместиться к ветке branch_neme
 > git checkout branch_neme
 
  ## Удаление веток
