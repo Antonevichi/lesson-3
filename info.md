@@ -54,7 +54,18 @@
 
  ![error](Fedya.jpg)
 
+## Ветки в git
 
+Чтобы посмотреть все ветки:
+
+> git branch
+Для создания ветки brsnch_neme:
+
+> git branch branch_neme
+
+переместиться к ветке branch_neme:
+
+> git checkout branch_neme
 
  
 
