@@ -65,6 +65,13 @@
 Переместиться к ветке branch_neme
 > git checkout branch_neme
 
+ ## Удаление веток
+ Удалить ветку с именем branch_neme можно командой:
+
+ > git branch -d branch_neme
+Для удаления ветки игнорируя все ошибки:
+
+ >git branch -D branch_neme
  
 
 
