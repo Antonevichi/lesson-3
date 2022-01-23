@@ -67,31 +67,46 @@
 Для создания ветки brsnch_neme:
 
 > git branch branch_neme
+
 Переместиться к ветке branch_neme
+
 > git checkout branch_neme
 
  ## Удаление веток
+
 Удалить ветку с именем branch_neme можно командой:
 
  > git branch -d branch_neme
 
 Для удаления ветки игнорируя все ошибки:
+
 >git branch -D branch_neme
 
 ## Слияние веток и решение конфликтов
 
 Команда для выкачивания информации из ветки branch_neme в текущую ветку:
+
 > git merg branch_neme
 
 ## Слияние веток и решение конфликтов
 
 Команда для выкачивания информации из ветки branch_neme в текущую ветку:
 
-> git merge branch_neme
+>git merge branch_neme
 
 **Для того, чтобы решить конфликт, нужно убрать лишние строки и отредактировать текст:**
 
+## Cправка
+Чтобы вызвать справку для какой-то команды, нужно добавить:
 
+>--help
+
+Примеры:
+>git add --help
+
+>git commit --help
+
+>branch --help
 
 
 
