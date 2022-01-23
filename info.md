@@ -65,7 +65,7 @@
 
 > git branch branch_neme
 
-переместиться к ветке branch_neme:
+
 
 > git checkout branch_neme
 
